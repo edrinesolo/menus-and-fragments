@@ -1,0 +1,5 @@
+<root>
+  <item name='android.R.id content'>
+    <annotation name='android.support.annotation.Nullable' />
+  </item>
+</root>

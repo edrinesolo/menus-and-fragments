@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp_solo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_are_pic_showing_the_recent_me_hop_u_dont_miss_me">this is a pic showing the recent me, hop u dont miss me</string>
+    <string name="action_settings">Settings</string>
+</resources>
